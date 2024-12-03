@@ -10,3 +10,4 @@ public class haspasswordgen {
         System.out.println("Hashed Password: " + hashedPassword);
     }
 }
+
