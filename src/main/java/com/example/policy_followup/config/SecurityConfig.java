@@ -1,4 +1,4 @@
-package com.example.policy_followup;
+package com.example.policy_followup.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Bean;
